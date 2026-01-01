@@ -223,7 +223,12 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/sarbudeen786>{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/sarbudeen786">[ Lonely ]</a></b>"""
+    CAPTION = """<b>⚡️ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
+
+<b>ꜱɪᴢᴇ : </b> <code>{file_size}</code>
+
+
+🍁 ᴊᴏɪɴ ɴᴏᴡ :  <a href="https://t.me/"></a>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
