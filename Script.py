@@ -228,7 +228,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 <b>ꜱɪᴢᴇ : </b> <code>{file_size}</code>
 
 
-🍁 ᴊᴏɪɴ ɴᴏᴡ :  <a href="https://t.me/"></a>"""
+🍁 ᴊᴏɪɴ ɴᴏᴡ :  <a href="https://t.me/cinenmahub">CineHubX 🍿💥</a>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
@@ -375,7 +375,7 @@ sʜᴏᴡɴ ɪɴ : {remaining_seconds} <i>sᴇᴄ</i>⚡️
 ○ ᴍᴜʟᴛɪ-ᴘʟᴀʏᴇʀ sᴛʀᴇᴀᴍɪɴɢ ʟɪɴᴋs
 ○ ᴀᴅ-ғʀᴇᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ
 
-👨‍💻 ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ <a href='https://t.me/dreamxbotz'>Owner</a> ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴛʀɪᴀʟ.
+👨‍💻 ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ <a href='https://t.me/cinenmahub'>CineHubX 🍿💥</a> ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴛʀɪᴀʟ.
 
 ➛ ᴜꜱᴇ /plan ᴛᴏ ꜱᴇᴇ ᴀʟʟ ᴏᴜʀ ᴘʟᴀɴꜱ ᴀᴛ ᴏɴᴄᴇ.
 ➛ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan</b>"""
