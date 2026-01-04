@@ -428,7 +428,7 @@ This Is An closed - Source Project. The Source Code Is Strictly Prohibited.\n
     VERIFICATION_TEXT = """b><i>👋 ʜᴇʏ {},
 
 📌 ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴠᴇʀɪꜰɪᴇᴅ ᴛᴏᴅᴀʏ, ᴘʟᴇᴀꜱᴇ ᴄʟɪᴄᴋ ᴏɴ ᴠᴇʀɪꜰʏ & ɢᴇᴛ ᴜɴʟɪᴍɪᴛᴇᴅ ᴀᴄᴄᴇꜱꜱ ꜰᴏʀ ᴛɪʟʟ ɴᴇxᴛ ᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ.
-⚡️ ɴᴀᴍᴇ : </b> """
+⚡️ ɴᴀᴍᴇ : </b> {file_name} """
     
 
     VERIFY_COMPLETE_TEXT = """<b>⚡️ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
