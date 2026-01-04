@@ -425,44 +425,56 @@ This Is An closed - Source Project. The Source Code Is Strictly Prohibited.\n
 • /reset_group - ʀᴇꜱᴇᴛ ʏᴏᴜʀ ꜱᴇᴛᴛɪɴɢꜱ.
 • /details - ᴄʜᴇᴄᴋ ʏᴏᴜʀ ꜱᴇᴛᴛɪɴɢꜱ."""
     
-    VERIFICATION_TEXT = """b><i>👋 ʜᴇʏ {},
+    VERIFICATION_TEXT = """<b><i>👋 ʜᴇʏ {},
 
-📌 Your File Is Ready Please Get Using This Link 🔗. """
+📄 <b>ꜰɪʟᴇ :</b> <code>{}</code>
+📦 <b>ꜱɪᴢᴇ :</b> <code>{}</code>
+
+📌 Your file is ready.
+🔗 Please verify to get the download link.
+</i></b>
+"""
+    VERIFY_COMPLETE_TEXT = """<b>⚡️ ɴᴀᴍᴇ :</b> <code>{}</code>
+
+<b>ꜱɪᴢᴇ :</b> <code>{}</code>
+
+🍁 ᴊᴏɪɴ ɴᴏᴡ :
+<a href="https://t.me/cinenmahub">CineHubX 🍿💥</a>
+"""
+
+    SECOND_VERIFICATION_TEXT = """<b>👋 ʜᴇʏ {},
+
+📄 <b>ꜰɪʟᴇ :</b> <code>{}</code>
+📦 <b>ꜱɪᴢᴇ :</b> <code>{}</code>
+
+🔁 Second verification required.
+</b>
+"""
+    SECOND_VERIFY_COMPLETE_TEXT = """<b>⚡️ ɴᴀᴍᴇ :</b> <code>{}</code>
+
+<b>ꜱɪᴢᴇ :</b> <code>{}</code>
+
+🍁 ᴊᴏɪɴ ɴᴏᴡ :
+<a href="https://t.me/cinenmahub">CineHubX 🍿💥</a>
+"""
     
 
-    VERIFY_COMPLETE_TEXT = """<b>⚡️ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
+    THIRDT_VERIFICATION_TEXT = """<b>👋 ʜᴇʏ {},
 
-<b>ꜱɪᴢᴇ : </b> <code>{file_size}</code>
+📄 <b>ꜰɪʟᴇ :</b> <code>{}</code>
+📦 <b>ꜱɪᴢᴇ :</b> <code>{}</code>
 
+🔐 Final verification required.
+</b>
+"""    
 
-🍁 ᴊᴏɪɴ ɴᴏᴡ :  <a href="https://t.me/cinenmahub">CineHubX 🍿💥</a>"""
-    
+    THIRDT_VERIFY_COMPLETE_TEXT = """<b>⚡️ ɴᴀᴍᴇ :</b> <code>{}</code>
 
-    SECOND_VERIFICATION_TEXT = """Your File Is Ready Please Get Using This Link 🔗
-🍁 ᴊᴏɪɴ ɴᴏᴡ :  <a href="https://t.me/cinenmahub">CineHubX 🍿💥</a>"""
+<b>ꜱɪᴢᴇ :</b> <code>{}</code>
 
-    SECOND_VERIFY_COMPLETE_TEXT = """<b>⚡️ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
-
-<b>ꜱɪᴢᴇ : </b> <code>{file_size}</code>
-
-
-🍁 ᴊᴏɪɴ ɴᴏᴡ :  <a href="https://t.me/cinenmahub">CineHubX 🍿💥</a>"""
-    
-
-    THIRDT_VERIFICATION_TEXT = """<b>⚡️ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
-
-<b>ꜱɪᴢᴇ : </b> <code>{file_size}</code>
-
-
-🍁 ᴊᴏɪɴ ɴᴏᴡ :  <a href="https://t.me/cinenmahub">CineHubX 🍿💥</a>"""
-    
-
-    THIRDT_VERIFY_COMPLETE_TEXT= """<b>⚡️ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
-
-<b>ꜱɪᴢᴇ : </b> <code>{file_size}</code>
-
-
-🍁 ᴊᴏɪɴ ɴᴏᴡ :  <a href="https://t.me/cinenmahub">CineHubX 🍿💥</a>"""
+🍁 ᴊᴏɪɴ ɴᴏᴡ :
+<a href="https://t.me/cinenmahub">CineHubX 🍿💥</a>
+"""
     
     VERIFIED_LOG_TEXT = """ᴜꜱᴇʀ ᴠᴇʀɪꜰɪᴇᴅ ꜱᴜᴄᴄᴇꜱꜱꜰᴜʟʟʏ ✓
 
