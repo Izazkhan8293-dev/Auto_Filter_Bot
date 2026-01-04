@@ -427,7 +427,7 @@ This Is An closed - Source Project. The Source Code Is Strictly Prohibited.\n
     
     VERIFICATION_TEXT = """b><i>👋 ʜᴇʏ {},
 
-📌 ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴠᴇʀɪꜰɪᴇᴅ , ᴘʟᴇᴀꜱᴇ ᴄʟɪᴄᴋ ᴏɴ ᴠᴇʀɪꜰʏ . """
+📌 Your File Is Ready Please Get Using This Link 🔗. """
     
 
     VERIFY_COMPLETE_TEXT = """<b>⚡️ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
@@ -438,11 +438,7 @@ This Is An closed - Source Project. The Source Code Is Strictly Prohibited.\n
 🍁 ᴊᴏɪɴ ɴᴏᴡ :  <a href="https://t.me/cinenmahub">CineHubX 🍿💥</a>"""
     
 
-    SECOND_VERIFICATION_TEXT = """<b>⚡️ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
-
-<b>ꜱɪᴢᴇ : </b> <code>{file_size}</code>
-
-
+    SECOND_VERIFICATION_TEXT = """Your File Is Ready Please Get Using This Link 🔗
 🍁 ᴊᴏɪɴ ɴᴏᴡ :  <a href="https://t.me/cinenmahub">CineHubX 🍿💥</a>"""
 
     SECOND_VERIFY_COMPLETE_TEXT = """<b>⚡️ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
