@@ -434,13 +434,6 @@ This Is An closed - Source Project. The Source Code Is Strictly Prohibited.\n
 🔗 Please verify to get the download link.
 </i></b>
 """
-    VERIFY_COMPLETE_TEXT = """<b>⚡️ ɴᴀᴍᴇ :</b> <code>{}</code>
-
-<b>ꜱɪᴢᴇ :</b> <code>{}</code>
-
-🍁 ᴊᴏɪɴ ɴᴏᴡ :
-<a href="https://t.me/cinenmahub">CineHubX 🍿💥</a>
-"""
 
     SECOND_VERIFICATION_TEXT = """<b>👋 ʜᴇʏ {},
 
@@ -450,14 +443,6 @@ This Is An closed - Source Project. The Source Code Is Strictly Prohibited.\n
 🔁 Second verification required.
 </b>
 """
-    SECOND_VERIFY_COMPLETE_TEXT = """<b>⚡️ ɴᴀᴍᴇ :</b> <code>{}</code>
-
-<b>ꜱɪᴢᴇ :</b> <code>{}</code>
-
-🍁 ᴊᴏɪɴ ɴᴏᴡ :
-<a href="https://t.me/cinenmahub">CineHubX 🍿💥</a>
-"""
-    
 
     THIRDT_VERIFICATION_TEXT = """<b>👋 ʜᴇʏ {},
 
@@ -468,12 +453,15 @@ This Is An closed - Source Project. The Source Code Is Strictly Prohibited.\n
 </b>
 """    
 
-    THIRDT_VERIFY_COMPLETE_TEXT = """<b>⚡️ ɴᴀᴍᴇ :</b> <code>{}</code>
+    VERIFY_COMPLETE_TEXT = SECOND_VERIFY_COMPLETE_TEXT = THIRDT_VERIFY_COMPLETE_TEXT = """<b>👋 Hey {},
 
-<b>ꜱɪᴢᴇ :</b> <code>{}</code>
+✅ You have successfully completed verification in <code>{}</code>.
 
-🍁 ᴊᴏɪɴ ɴᴏᴡ :
+📦 You can now download your required files available in this bot.
+
+🍁 Join now for more updates :
 <a href="https://t.me/cinenmahub">CineHubX 🍿💥</a>
+</b>
 """
     
     VERIFIED_LOG_TEXT = """ᴜꜱᴇʀ ᴠᴇʀɪꜰɪᴇᴅ ꜱᴜᴄᴄᴇꜱꜱꜰᴜʟʟʏ ✓
