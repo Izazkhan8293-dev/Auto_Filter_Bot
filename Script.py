@@ -8,7 +8,7 @@ class script(object):
     
 
 
-    GSTART_TXT = """
+     GSTART_TXT = """
 
 <b>ʜᴇʏ {},</b>
 
