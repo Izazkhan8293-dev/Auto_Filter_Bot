@@ -425,12 +425,10 @@ This Is An closed - Source Project. The Source Code Is Strictly Prohibited.\n
 • /reset_group - ʀᴇꜱᴇᴛ ʏᴏᴜʀ ꜱᴇᴛᴛɪɴɢꜱ.
 • /details - ᴄʜᴇᴄᴋ ʏᴏᴜʀ ꜱᴇᴛᴛɪɴɢꜱ."""
     
-    VERIFICATION_TEXT = """<b>⚡️ ɴᴀᴍᴇ : </b> <code>{file_name}
+    VERIFICATION_TEXT = """b><i>👋 ʜᴇʏ {},
 
-<b>ꜱɪᴢᴇ : </b> <code>{file_size}
-
-
-🍁 ᴊᴏɪɴ ɴᴏᴡ :  <a href="https://t.me/cinenmahub">CineHubX 🍿💥</a>"""
+📌 ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴠᴇʀɪꜰɪᴇᴅ ᴛᴏᴅᴀʏ, ᴘʟᴇᴀꜱᴇ ᴄʟɪᴄᴋ ᴏɴ ᴠᴇʀɪꜰʏ & ɢᴇᴛ ᴜɴʟɪᴍɪᴛᴇᴅ ᴀᴄᴄᴇꜱꜱ ꜰᴏʀ ᴛɪʟʟ ɴᴇxᴛ ᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ.
+⚡️ ɴᴀᴍᴇ : </b> """
     
 
     VERIFY_COMPLETE_TEXT = """<b>⚡️ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
