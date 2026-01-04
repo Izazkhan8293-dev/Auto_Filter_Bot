@@ -274,6 +274,14 @@ async def start(client, message):
             is_second_shortener = await db.use_second_shortener(user_id, settings.get('verify_time', TWO_VERIFY_GAP)) 
             is_third_shortener = await db.use_third_shortener(user_id, settings.get('third_verify_time', THREE_VERIFY_GAP))
             if settings.get("is_verify", IS_VERIFY) and (not user_verified or is_second_shortener or is_third_shortener):
+                files_ = await file_details_task
+                file_name = "Unknown File"
+                file_size = "Unknown Size"
+                if files_:
+                    file = files_[0]
+                    file_name = clean_filename(file.file_name)
+                    file_size = get_size(file.file_size)
+                    
                 verify_id = ''.join(random.choices(string.ascii_uppercase + string.digits, k=7))
                 await db.create_verify_id(user_id, verify_id)
                 temp.VERIFICATIONS[user_id] = grp_id
@@ -296,7 +304,7 @@ async def start(client, message):
                 else:            
                     msg = script.SECOND_VERIFICATION_TEXT if is_second_shortener else script.VERIFICATION_TEXT
                 n=await m.reply_text(
-                    text=msg.format(message.from_user.mention),
+                    text=msg.format(message.from_user.mention, file_name, file_size),
                     protect_content = True,
                     reply_markup=reply_markup,
                     parse_mode=enums.ParseMode.HTML
