@@ -8,7 +8,7 @@ class script(object):
 """
 
 
-    GSTART_TXT = """<b>🚩 ᴊᴀɪ ꜱʜʀɪ ʀᴀᴍ 🚩</b>
+    GSTART_TXT = """
 
 <b>ʜᴇʏ {},</b>
 
@@ -428,10 +428,8 @@ This Is An closed - Source Project. The Source Code Is Strictly Prohibited.\n
     VERIFICATION_TEXT = """<b><i>👋 ʜᴇʏ {},
 
 📌 ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴠᴇʀɪꜰɪᴇᴅ ᴛᴏᴅᴀʏ, ᴘʟᴇᴀꜱᴇ ᴄʟɪᴄᴋ ᴏɴ ᴠᴇʀɪꜰʏ & ɢᴇᴛ ᴜɴʟɪᴍɪᴛᴇᴅ ᴀᴄᴄᴇꜱꜱ ꜰᴏʀ ᴛɪʟʟ ɴᴇxᴛ ᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ.
-
-#ᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ:- 1/3 ✓
-
-ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴅɪʀᴇᴄᴛ ꜰɪʟᴇs ᴛʜᴇɴ ʏᴏᴜ ᴄᴀɴ ᴛᴀᴋᴇ ᴘʀᴇᴍɪᴜᴍ sᴇʀᴠɪᴄᴇ (ɴᴏ ɴᴇᴇᴅ ᴛᴏ ᴠᴇʀɪꜰʏ).</i></b>"""
+#ᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ:- 
+</i></b>"""
     
 
     VERIFY_COMPLETE_TEXT = """<b>⚡️ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
@@ -442,13 +440,12 @@ This Is An closed - Source Project. The Source Code Is Strictly Prohibited.\n
 🍁 ᴊᴏɪɴ ɴᴏᴡ :  <a href="https://t.me/cinenmahub">CineHubX 🍿💥</a>"""
     
 
-    SECOND_VERIFICATION_TEXT = """<b><i>👋 ʜᴇʏ {},
+    SECOND_VERIFICATION_TEXT = """<b>⚡️ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
 
-📌 ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴠᴇʀɪꜰɪᴇᴅ, ᴛᴀᴘ ᴏɴ ᴛʜᴇ ᴠᴇʀɪꜰʏ ʟɪɴᴋ ᴀɴᴅ ɢᴇᴛ ᴜɴʟɪᴍɪᴛᴇᴅ ᴀᴄᴄᴇss ꜰᴏʀ ᴛɪʟʟ ɴᴇxᴛ ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ.
+<b>ꜱɪᴢᴇ : </b> <code>{file_size}</code>
 
-#ᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ:- 2/3 ✓
 
-ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴅɪʀᴇᴄᴛ ꜰɪʟᴇs ᴛʜᴇɴ ʏᴏᴜ ᴄᴀɴ ᴛᴀᴋᴇ ᴘʀᴇᴍɪᴜᴍ sᴇʀᴠɪᴄᴇ (ɴᴏ ɴᴇᴇᴅ ᴛᴏ ᴠᴇʀɪꜰʏ).</i></b>"""
+🍁 ᴊᴏɪɴ ɴᴏᴡ :  <a href="https://t.me/cinenmahub">CineHubX 🍿💥</a>"""
 
     SECOND_VERIFY_COMPLETE_TEXT = """<b>⚡️ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
 
