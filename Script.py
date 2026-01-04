@@ -425,9 +425,9 @@ This Is An closed - Source Project. The Source Code Is Strictly Prohibited.\n
 • /reset_group - ʀᴇꜱᴇᴛ ʏᴏᴜʀ ꜱᴇᴛᴛɪɴɢꜱ.
 • /details - ᴄʜᴇᴄᴋ ʏᴏᴜʀ ꜱᴇᴛᴛɪɴɢꜱ."""
     
-    VERIFICATION_TEXT = """<b>⚡️ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
+    VERIFICATION_TEXT = """<b>⚡️ ɴᴀᴍᴇ : </b> <code>{file_name}
 
-<b>ꜱɪᴢᴇ : </b> <code>{file_size}</code>
+<b>ꜱɪᴢᴇ : </b> <code>{file_size}
 
 
 🍁 ᴊᴏɪɴ ɴᴏᴡ :  <a href="https://t.me/cinenmahub">CineHubX 🍿💥</a>"""
