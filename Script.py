@@ -230,7 +230,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 <b>ꜱɪᴢᴇ : </b> <code>{file_size}</code>
 
 
-🍁 ᴊᴏɪɴ ɴᴏᴡ :  <a href="https://t.me/cinenmahub">CineHubX 🍿💥</a>"""
+🍁 ᴊᴏɪɴ ɴᴏᴡ :  <a href="https://t.me/cinenmahub">FlimZy 🍿💥</a>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
