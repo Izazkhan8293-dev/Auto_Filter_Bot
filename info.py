@@ -60,7 +60,7 @@ auth_channels     = environ.get("AUTH_CHANNELS", "-1003657678687")# Channels for
 # Payment Configuration
 # ============================
 QR_CODE = environ.get('QR_CODE', 'https://graph.org/file/e419f801841c2ee3db0fc.jpg')    # QR code image for payments
-OWNER_UPI_ID = environ.get('OWNER_UPI_ID', 'ɴᴏ ᴀᴠᴀɪʟᴀʙʟᴇ ʀɪɢʜᴛ ɴᴏᴡ')    # Owner UPI ID for payments
+OWNER_UPI_ID = environ.get('OWNER_UPI_ID', '258')    # Owner UPI ID for payments
 
 STAR_PREMIUM_PLANS = {
     10: "7day",
@@ -105,13 +105,14 @@ TUTORIAL_2 = environ.get("TUTORIAL_2", "https://t.me/download_tutorial_video")  
 TUTORIAL_3 = environ.get("TUTORIAL_3", "https://t.me/download_tutorial_video")   # Third tutorial link for verification
 
 # Verification (Must Fill All Veriables. Else You Got Error
-SHORTENER_API = environ.get("SHORTENER_API", "06c0783bacc243d34bdbd252020860cf2cf508f0") # Shortener API key
+SHORTENER_API = environ.get("SHORTENER_API", "7d0829754d75f465412249b649b42b62a682acd3
+") # Shortener API key
 SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", "arolinks.com") # Shortener website
 
-SHORTENER_API2 = environ.get("SHORTENER_API2", "06c0783bacc243d34bdbd252020860cf2cf508f0")  # Shortener API key for second website
+SHORTENER_API2 = environ.get("SHORTENER_API2", "7d0829754d75f465412249b649b42b62a682acd3")  # Shortener API key for second website
 SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", "arolinks.com") # Shortener website for second website
 
-SHORTENER_API3 = environ.get("SHORTENER_API3", "06c0783bacc243d34bdbd252020860cf2cf508f0")  
+SHORTENER_API3 = environ.get("SHORTENER_API3", "7d0829754d75f465412249b649b42b62a682acd3")  
 SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", "arolinks.com") # Shortener website for third website
 
 TWO_VERIFY_GAP = int(environ.get('TWO_VERIFY_GAP', "100")) # Time gap for two-step verification in seconds (default: 20 minutes)
