@@ -229,8 +229,14 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 
 <b>ꜱɪᴢᴇ : </b> <code>{file_size}</code>
 
+✯  ━━━━━  ✧  ━━━━  ✧  ━━━━━ ✯
+Join our Backup/New Movies Group 🎬
+➠ https://t.me/dgrequest
+➠ https://t.me/dgrequest
 
-🍁 ᴊᴏɪɴ ɴᴏᴡ :  <a href="https://t.me/cinenmahub">FlimZy 🍿💥</a>"""
+➠BOT Updates: @dgrequest
+
+🔰Join  Share & Support</a>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
