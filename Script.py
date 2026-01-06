@@ -235,7 +235,7 @@ Join our Backup/New Movies Group 🎬
 
 ➠BOT Updates: <a href="https://t.me/cinenmahub">FlimZy 🍿💥</a>
 
-🔰Join  Share & Support</a>"""
+<a 🔰Join  Share & Support</a>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
