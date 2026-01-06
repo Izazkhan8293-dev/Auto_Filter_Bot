@@ -233,7 +233,7 @@ Join our Backup/New Movies Group 🎬
 ➠ https://t.me/dgrequest
 ➠ https://t.me/dgrequest
 
-➠BOT Updates: @dgrequest
+➠BOT Updates: @flimzy
 
 🔰Join  Share & Support</a>"""
 
