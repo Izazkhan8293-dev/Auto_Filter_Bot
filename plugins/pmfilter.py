@@ -1057,9 +1057,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton("⚜️ Not Available In The Hindi ⚜️",
                                  callback_data=f"Not_Available_In_The_Hindi#{from_user}")
         ]]
-        #btn2 = [[
-        #    InlineKeyboardButton("ᴠɪᴇᴡ ꜱᴛᴀᴛᴜꜱ", url=f"{query.message.link}")
-        #]]
+        btn2 = [[
+            InlineKeyboardButton("ᴠɪᴇᴡ ꜱᴛᴀᴛᴜꜱ", url=f"{query.message.link}")
+        ]]
         if query.from_user.id in ADMINS:
             user = await client.get_users(from_user)
             reply_markup = InlineKeyboardMarkup(btn)
@@ -2039,7 +2039,7 @@ async def advantage_spell_chok(client, message):
             pass
         return
     if not movies:
-        google = search.replace(" ", "+")
+        google = quote_plus(search)
         button = [[InlineKeyboardButton(
             "🔍 ᴄʜᴇᴄᴋ sᴘᴇʟʟɪɴɢ ᴏɴ ɢᴏᴏɢʟᴇ 🔍", url=f"https://www.google.com/search?q={google}")]]
         k = await message.reply_text(text=script.I_CUDNT.format(search), reply_markup=InlineKeyboardMarkup(button))
