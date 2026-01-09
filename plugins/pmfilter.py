@@ -1057,9 +1057,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton("⚜️ Not Available In The Hindi ⚜️",
                                  callback_data=f"Not_Available_In_The_Hindi#{from_user}")
         ]]
-        btn2 = [[
-            InlineKeyboardButton("ᴠɪᴇᴡ ꜱᴛᴀᴛᴜꜱ", url=f"{query.message.link}")
-        ]]
+        #btn2 = [[
+        #    InlineKeyboardButton("ᴠɪᴇᴡ ꜱᴛᴀᴛᴜꜱ", url=f"{query.message.link}")
+        #]]
         if query.from_user.id in ADMINS:
             user = await client.get_users(from_user)
             reply_markup = InlineKeyboardMarkup(btn)
